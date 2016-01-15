@@ -1,0 +1,16 @@
+nav {
+    float:right;
+    margin-top: .65rem;
+}
+nav>span{
+    margin-left: 2rem;
+    font-size: 1.25rem;
+}
+nav>span:hover{
+    color: white;
+    cursor: pointer;
+}
+h1{
+    display:inline;
+    padding-left: 3rem;
+}
